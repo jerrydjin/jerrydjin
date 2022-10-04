@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singularity0614
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning dart
+- 👀 I’m interested in coding, maths and science
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on a website
 - 📫 How to reach me no
 
